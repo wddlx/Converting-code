@@ -3,6 +3,7 @@ This code aims to convert an image of a disk with any PA and inclination to a fa
 
 
 Inputs:
+
 image: 2d array.
 
 PA and inclination: Real number, default is 0.
